@@ -2,6 +2,8 @@
 
 This application recommends outfits based on current weather conditions.
 
+Make `.env` file and type `OPENWEATHER_API_KEY=YOUR_API_KEY_HERE`
+
 ## Setup
 
 1. Install dependencies:
