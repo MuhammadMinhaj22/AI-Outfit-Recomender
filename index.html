@@ -1,0 +1,96 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WeatherFit | Men's Outfit AI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Sora:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-shape bg-shape-a" aria-hidden="true"></div>
+  <div class="bg-shape bg-shape-b" aria-hidden="true"></div>
+
+  <main class="page-shell">
+    <header class="hero">
+      <p class="eyebrow">Daily Style Assistant</p>
+      <h1>Men's Outfit Recommender</h1>
+      <p class="hero-copy">Enter a city to get live weather data and an AI outfit recommendation.</p>
+    </header>
+
+    <section class="control-panel">
+      <form id="outfit-form" class="city-form" autocomplete="off">
+        <label for="city-input">City</label>
+        <div class="form-row">
+          <input id="city-input" name="city" type="text" placeholder="e.g. New York" required />
+          <button id="submit-btn" type="submit">Get Outfit</button>
+        </div>
+      </form>
+      <p id="status" class="status" role="status" aria-live="polite"></p>
+    </section>
+
+    <section id="results" class="results hidden">
+      <article class="panel weather-panel">
+        <h2>Weather</h2>
+        <div class="weather-grid">
+          <div class="metric">
+            <span class="metric-label">City</span>
+            <span id="weather-city" class="metric-value">-</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Condition</span>
+            <span id="weather-condition" class="metric-value">-</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Temperature</span>
+            <span id="weather-temp" class="metric-value">-</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Humidity</span>
+            <span id="weather-humidity" class="metric-value">-</span>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Wind Speed</span>
+            <span id="weather-wind" class="metric-value">-</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="panel outfit-panel">
+        <h2>AI Outfit Recommendation</h2>
+        <div class="outfit-grid">
+          <div class="outfit-card">
+            <h3>Upper Wear</h3>
+            <p id="outfit-upper">-</p>
+          </div>
+          <div class="outfit-card">
+            <h3>Lower Wear</h3>
+            <p id="outfit-lower">-</p>
+          </div>
+          <div class="outfit-card">
+            <h3>Footwear</h3>
+            <p id="outfit-footwear">-</p>
+          </div>
+          <div class="outfit-card">
+            <h3>Accessories</h3>
+            <p id="outfit-extra">-</p>
+          </div>
+        </div>
+      </article>
+
+      <article class="panel feedback-panel">
+        <h2>Was this recommendation useful?</h2>
+        <div class="feedback-actions">
+          <button id="feedback-good" class="feedback-btn" type="button" data-value="good">Good</button>
+          <button id="feedback-bad" class="feedback-btn" type="button" data-value="bad">Bad</button>
+        </div>
+        <p id="feedback-status" class="feedback-status" role="status" aria-live="polite"></p>
+      </article>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

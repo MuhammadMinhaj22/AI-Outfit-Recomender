@@ -1,0 +1,651 @@
+temperature,humidity,weather_type,season,upper_wear,lower_wear,footwear,accessories
+-0.5,70,snowy,winter,Parka + Thermal layer,Wool trousers,Insulated boots,Gloves + Beanie
+4.1,63,snowy,winter,Insulated puffer jacket,Wool trousers,Waterproof winter boots,Gloves + Beanie
+15.4,30,sunny,spring,Oxford shirt + Light jacket,Chinos,Sneakers,Minimal bracelet
+0.9,55,cloudy,winter,Puffer jacket,Chinos,High-top sneakers,Beanie
+10.6,68,cloudy,winter,Wool sweater + Overcoat,Tailored joggers,Sneakers,Watch
+25.8,66,windy,spring,Cotton T-shirt,Jeans,Loafers,None
+29.7,48,sunny,summer,Breathable T-shirt,Light chinos,Canvas sneakers,Cap
+16.1,100,rainy,spring,Waterproof shell jacket,Tailored joggers,Waterproof sneakers,Umbrella + Cap
+11.4,80,cloudy,fall,Oxford shirt + Light jacket,Chinos,Chukka boots,Minimal bracelet
+18.3,36,windy,fall,Bomber jacket,Chinos,Canvas shoes,Watch
+14.4,74,misty,fall,Light trench coat,Tailored joggers,Loafers,Watch
+-2.8,85,snowy,winter,Parka + Thermal layer,Wool trousers,Insulated boots,Beanie + Thermal socks
+4.7,34,sunny,winter,Wool sweater + Overcoat,Dark jeans,High-top sneakers,Leather gloves
+19.6,72,cloudy,fall,Polo shirt,Tailored trousers,Sneakers,Cap
+22.2,86,rainy,spring,Waterproof shell jacket,Tailored trousers,Waterproof sneakers,Umbrella + Cap
+27.9,45,sunny,summer,Breathable T-shirt,Chino shorts,Canvas sneakers,Sunglasses
+17.6,86,rainy,spring,Waterproof shell jacket,Tailored joggers,Rubber-soled boots,Water-resistant watch
+16.4,49,sunny,spring,Oxford shirt + Light jacket,Slim jeans,Chukka boots,Minimal bracelet
+-4.7,63,snowy,winter,Insulated puffer jacket,Thermal-lined jeans,Insulated boots,Gloves + Beanie
+-4.6,40,windy,winter,Turtleneck + Jacket,Thermal-lined jeans,Leather boots,Watch
+15.6,60,cloudy,fall,Long-sleeve Henley,Chinos,Chukka boots,Minimal bracelet
+31.5,72,cloudy,summer,Breathable T-shirt,Chino shorts,Slip-on loafers,None
+-2.2,77,snowy,winter,Insulated puffer jacket,Thermal-lined jeans,Waterproof winter boots,Beanie + Thermal socks
+3.2,95,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Waterproof winter boots,Gloves + Beanie
+25.8,55,cloudy,spring,Short-sleeve button-down,Jeans,Loafers,None
+13.5,72,rainy,spring,Waterproof shell jacket,Tailored joggers,Rubber-soled boots,Umbrella + Cap
+18.1,96,rainy,spring,Hooded rain jacket,Tailored trousers,Waterproof sneakers,Water-resistant watch
+10.6,28,sunny,spring,Oxford shirt + Light jacket,Slim jeans,Sneakers,Cap
+12.1,69,cloudy,spring,Crewneck sweatshirt,Slim jeans,Sneakers,Watch
+17.0,28,sunny,fall,Light sweater,Tailored joggers,Loafers,Light scarf
+38.1,46,windy,summer,Ultra-light T-shirt,Chino shorts,Slip-on canvas shoes,None
+5.1,58,sunny,winter,Wool sweater + Overcoat,Dark jeans,High-top sneakers,Beanie
+19.7,72,cloudy,spring,Polo shirt,Tailored trousers,Canvas shoes,Cap
+22.5,47,cloudy,fall,Short-sleeve button-down,Jeans,Sneakers,Sunglasses
+34.2,78,rainy,summer,Light rain jacket,Quick-dry chinos,Waterproof sneakers,Water-resistant watch
+23.4,45,sunny,spring,Polo shirt,Jeans,Sneakers,Sunglasses
+38.9,59,sunny,summer,Ultra-light T-shirt,Chino shorts,Sandals,Cap
+38.1,87,stormy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Waterproof sneakers,Water-resistant watch
+30.6,93,stormy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Rain boots,Umbrella
+17.4,43,windy,spring,Light jacket + Henley,Chinos,Sneakers,Light scarf
+39.5,42,windy,summer,Linen tee,Linen shorts,Slip-on canvas shoes,None
+-4.0,95,snowy,winter,Wool coat + Sweater,Wool trousers,Waterproof winter boots,Beanie + Thermal socks
+5.5,54,cloudy,winter,Puffer jacket,Dark jeans,Waterproof sneakers,Light scarf
+18.6,57,cloudy,fall,Linen shirt,Tailored trousers,Sneakers,Cap
+29.2,91,rainy,summer,Light rain jacket,Dark chinos,Rain boots,Water-resistant watch
+-1.8,89,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Waterproof winter boots,Beanie + Thermal socks
+14.5,48,sunny,spring,Oxford shirt + Light jacket,Chinos,Sneakers,Cap
+12.4,32,windy,spring,Light jacket + Henley,Tailored joggers,Sneakers,Watch
+16.1,39,sunny,spring,Light sweater,Tailored joggers,Chukka boots,Watch
+-1.6,94,rainy,winter,Waterproof shell jacket,Thermal-lined jeans,Rain boots,Umbrella
+23.8,46,sunny,fall,Short-sleeve button-down,Tailored trousers,Canvas shoes,None
+19.9,81,misty,fall,Hoodie + Light jacket,Chinos,Canvas shoes,Cap
+12.4,28,sunny,fall,Oxford shirt + Light jacket,Chinos,Loafers,Cap
+25.3,36,windy,summer,Short-sleeve button-down,Tailored trousers,Sneakers,Watch
+0.6,62,cloudy,winter,Turtleneck + Jacket,Dark jeans,High-top sneakers,Leather gloves
+9.3,46,windy,winter,Turtleneck + Jacket,Corduroy pants,High-top sneakers,Watch
+14.4,42,sunny,spring,Crewneck sweatshirt,Slim jeans,Chukka boots,Minimal bracelet
+24.7,71,windy,spring,Cotton T-shirt,Jeans,Canvas shoes,Sunglasses
+-3.3,41,sunny,winter,Wool sweater + Overcoat,Wool trousers,Waterproof winter boots,Thermal socks
+20.2,81,rainy,fall,Waterproof shell jacket,Jeans,Rubber-soled boots,Water-resistant watch
+1.0,86,misty,winter,Turtleneck + Jacket,Dark jeans,Leather boots,Light scarf
+17.6,73,rainy,spring,Hooded rain jacket,Slim jeans,Waterproof sneakers,Water-resistant watch
+-2.7,79,rainy,winter,Hooded rain jacket,Wool trousers,Rubber-soled boots,Umbrella
+10.6,33,sunny,winter,Turtleneck + Jacket,Tailored joggers,Chukka boots,Watch
+2.6,59,cloudy,winter,Wool sweater + Overcoat,Dark jeans,High-top sneakers,Leather gloves
+18.2,91,misty,fall,Hoodie + Light jacket,Jeans,Sneakers,Cap
+21.2,88,rainy,fall,Hooded rain jacket,Chinos,Waterproof sneakers,Umbrella + Cap
+15.9,80,rainy,fall,Hooded rain jacket,Chinos,Rain boots,Water-resistant watch
+32.3,52,cloudy,summer,Linen short-sleeve shirt,Light chinos,Slip-on loafers,Lightweight watch
+20.3,42,sunny,spring,Cotton T-shirt,Chinos,Loafers,Watch
+12.9,45,sunny,fall,Crewneck sweatshirt,Tailored joggers,Chukka boots,Cap
+16.8,86,stormy,fall,Waterproof shell jacket,Slim jeans,Waterproof sneakers,Water-resistant watch
+21.9,80,cloudy,spring,Polo shirt,Chinos,Sneakers,None
+39.6,86,rainy,summer,Light rain jacket,Dark chinos,Waterproof sneakers,Umbrella + Cap
+-3.5,27,sunny,winter,Turtleneck + Jacket,Corduroy pants,Waterproof winter boots,Wool scarf
+8.2,56,cloudy,fall,Puffer vest + Sweatshirt,Corduroy pants,High-top sneakers,Light scarf
+-4.7,64,snowy,winter,Insulated puffer jacket,Thermal-lined jeans,Waterproof winter boots,Gloves + Beanie
+22.2,88,rainy,spring,Hooded rain jacket,Tailored trousers,Rain boots,Water-resistant watch
+17.9,88,rainy,fall,Hooded rain jacket,Chinos,Rubber-soled boots,Umbrella
+18.8,75,rainy,spring,Hooded rain jacket,Jeans,Waterproof sneakers,Umbrella
+35.2,84,rainy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Rubber-soled boots,Umbrella
+23.2,70,misty,spring,Polo shirt,Jeans,Canvas shoes,Cap
+19.0,71,cloudy,fall,Linen shirt,Tailored trousers,Canvas shoes,None
+8.6,61,cloudy,fall,Flannel shirt + Coat,Chinos,High-top sneakers,Beanie
+3.5,82,snowy,winter,Insulated puffer jacket,Wool trousers,Waterproof winter boots,Wool scarf + Gloves
+17.0,96,stormy,spring,Hooded rain jacket,Slim jeans,Rain boots,Water-resistant watch
+0.6,59,windy,winter,Puffer jacket,Chinos,High-top sneakers,Cap
+39.5,39,sunny,summer,Ultra-light T-shirt,Linen shorts,Slip-on canvas shoes,Sunglasses + Cap
+20.0,42,sunny,spring,Short-sleeve button-down,Chinos,Sneakers,Cap
+17.0,88,misty,spring,Hoodie + Light jacket,Chinos,Chukka boots,Light scarf
+10.2,60,cloudy,spring,Light sweater,Chinos,Loafers,Watch
+21.5,43,sunny,spring,Linen shirt,Jeans,Loafers,None
+12.3,52,cloudy,spring,Light sweater,Chinos,Loafers,Minimal bracelet
+32.1,64,windy,summer,Lightweight polo,Light chinos,Slip-on loafers,Lightweight watch
+17.7,57,cloudy,spring,Crewneck sweatshirt,Slim jeans,Loafers,Light scarf
+13.7,52,sunny,spring,Long-sleeve Henley,Slim jeans,Chukka boots,Minimal bracelet
+18.6,95,rainy,fall,Hooded rain jacket,Jeans,Waterproof sneakers,Umbrella + Cap
+3.1,72,cloudy,winter,Puffer jacket,Chinos,Leather boots,Beanie
+35.1,48,sunny,summer,Moisture-wicking tee,Linen shorts,Slip-on canvas shoes,Sunglasses + Cap
+8.6,33,windy,fall,Light jacket + Henley,Dark jeans,Waterproof sneakers,Cap
+7.9,78,cloudy,winter,Puffer jacket,Corduroy pants,Leather boots,Watch
+27.9,60,cloudy,summer,Linen short-sleeve shirt,Chino shorts,Low-top sneakers,Sunglasses
+11.9,57,sunny,fall,Light sweater,Chinos,Loafers,Cap
+8.2,75,cloudy,fall,Flannel shirt + Coat,Chinos,Waterproof sneakers,Light scarf
+0.9,67,cloudy,winter,Puffer jacket,Chinos,High-top sneakers,Leather gloves
+23.7,80,stormy,spring,Hooded rain jacket,Tailored trousers,Waterproof sneakers,Water-resistant watch
+17.1,70,cloudy,fall,Long-sleeve Henley,Tailored joggers,Chukka boots,Minimal bracelet
+27.7,94,rainy,summer,Light rain jacket,Quick-dry chinos,Rubber-soled boots,Water-resistant watch
+2.8,82,snowy,winter,Parka + Thermal layer,Wool trousers,Insulated boots,Gloves + Beanie
+24.0,45,windy,spring,Linen shirt,Chinos,Loafers,None
+29.4,73,rainy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Rain boots,Umbrella
+31.3,70,cloudy,summer,Lightweight polo,Light chinos,Slip-on loafers,None
+3.4,47,sunny,winter,Turtleneck + Jacket,Chinos,Leather boots,Beanie
+12.8,79,misty,fall,Sweater + Windbreaker,Chinos,Sneakers,Cap
+-4.5,77,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Waterproof winter boots,Beanie + Thermal socks
+12.5,87,misty,fall,Sweater + Windbreaker,Slim jeans,Loafers,Light scarf
+1.3,93,misty,winter,Wool sweater + Overcoat,Dark jeans,High-top sneakers,Watch
+11.4,69,cloudy,fall,Long-sleeve Henley,Chinos,Loafers,Light scarf
+13.3,65,windy,spring,Light jacket + Henley,Tailored joggers,Sneakers,Cap
+4.9,80,snowy,winter,Insulated puffer jacket,Thermal-lined jeans,Waterproof winter boots,Gloves + Beanie
+28.2,29,sunny,summer,Moisture-wicking tee,Light chinos,Low-top sneakers,Sunglasses + Cap
+16.2,35,windy,fall,Light jacket + Henley,Tailored joggers,Sneakers,Watch
+3.6,76,snowy,winter,Insulated puffer jacket,Thermal-lined jeans,Waterproof winter boots,Beanie + Thermal socks
+14.4,89,rainy,spring,Hooded rain jacket,Slim jeans,Rubber-soled boots,Water-resistant watch
+19.2,77,cloudy,fall,Polo shirt,Jeans,Loafers,Watch
+15.3,82,rainy,fall,Hooded rain jacket,Slim jeans,Rain boots,Umbrella
+21.3,48,cloudy,fall,Cotton T-shirt,Tailored trousers,Canvas shoes,Cap
+19.4,45,sunny,spring,Linen shirt,Tailored trousers,Sneakers,None
+39.1,48,windy,summer,Tank top + Open shirt,Chino shorts,Slip-on canvas shoes,None
+32.1,30,sunny,summer,Linen short-sleeve shirt,Chino shorts,Low-top sneakers,Cap
+5.5,94,rainy,winter,Waterproof shell jacket,Chinos,Waterproof sneakers,Umbrella + Cap
+29.6,38,windy,summer,Linen short-sleeve shirt,Light chinos,Canvas sneakers,Lightweight watch
+-5.7,87,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Waterproof winter boots,Wool scarf + Gloves
+33.1,73,rainy,summer,Light rain jacket,Dark chinos,Rain boots,Water-resistant watch
+15.1,78,rainy,fall,Hooded rain jacket,Slim jeans,Rubber-soled boots,Water-resistant watch
+12.9,77,rainy,fall,Waterproof shell jacket,Chinos,Waterproof sneakers,Umbrella + Cap
+24.1,51,sunny,summer,Polo shirt,Chinos,Loafers,Cap
+37.8,26,sunny,summer,Linen short-sleeve shirt,Chino shorts,Sandals,Cap
+14.7,29,sunny,fall,Long-sleeve Henley,Slim jeans,Sneakers,Minimal bracelet
+37.5,34,sunny,summer,Moisture-wicking tee,Linen shorts,Sandals,Sunglasses + Cap
+36.5,28,sunny,summer,Linen short-sleeve shirt,Linen shorts,Slip-on canvas shoes,Sunglasses + Cap
+12.3,76,rainy,spring,Hooded rain jacket,Tailored joggers,Rain boots,Water-resistant watch
+22.1,48,sunny,fall,Linen shirt,Tailored trousers,Loafers,Watch
+15.1,56,cloudy,fall,Oxford shirt + Light jacket,Tailored joggers,Sneakers,Cap
+3.0,64,snowy,winter,Parka + Thermal layer,Wool trousers,Waterproof winter boots,Beanie + Thermal socks
+10.2,69,cloudy,winter,Wool sweater + Overcoat,Tailored joggers,Loafers,Light scarf
+22.4,58,cloudy,fall,Cotton T-shirt,Tailored trousers,Canvas shoes,Watch
+2.8,77,snowy,winter,Wool coat + Sweater,Wool trousers,Waterproof winter boots,Beanie + Thermal socks
+6.9,72,rainy,winter,Hooded rain jacket,Chinos,Rain boots,Water-resistant watch
+19.3,50,cloudy,spring,Linen shirt,Jeans,Canvas shoes,None
+25.0,36,sunny,spring,Short-sleeve button-down,Tailored trousers,Loafers,Cap
+2.5,38,sunny,winter,Puffer jacket,Corduroy pants,Leather boots,Light scarf
+24.0,51,cloudy,fall,Linen shirt,Chinos,Canvas shoes,Sunglasses
+33.9,55,windy,summer,Ultra-light T-shirt,Athletic shorts,Sandals,Cap
+13.8,72,cloudy,fall,Crewneck sweatshirt,Tailored joggers,Loafers,Minimal bracelet
+15.0,53,sunny,spring,Crewneck sweatshirt,Chinos,Loafers,Minimal bracelet
+20.4,51,windy,fall,Light jacket + Henley,Chinos,Sneakers,Cap
+16.9,34,windy,fall,Light jacket + Henley,Slim jeans,Sneakers,Light scarf
+11.5,68,windy,spring,Windbreaker + Tee,Slim jeans,Sneakers,Light scarf
+39.9,38,sunny,summer,Ultra-light T-shirt,Chino shorts,Sandals,Sunglasses
+1.7,67,snowy,winter,Insulated puffer jacket,Thermal-lined jeans,Waterproof winter boots,Gloves + Beanie
+21.6,43,sunny,spring,Cotton T-shirt,Jeans,Sneakers,Cap
+2.4,89,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Insulated boots,Beanie + Thermal socks
+10.0,58,cloudy,spring,Crewneck sweatshirt,Chinos,Chukka boots,Watch
+32.4,43,sunny,summer,Linen short-sleeve shirt,Linen trousers,Slip-on loafers,Cap
+24.3,53,sunny,summer,Linen shirt,Chinos,Canvas shoes,Cap
+29.6,37,sunny,summer,Linen short-sleeve shirt,Light chinos,Slip-on loafers,Cap
+11.0,63,windy,spring,Windbreaker + Tee,Chinos,Loafers,Cap
+0.2,76,snowy,winter,Wool coat + Sweater,Wool trousers,Insulated boots,Beanie + Thermal socks
+36.8,40,sunny,summer,Ultra-light T-shirt,Linen shorts,Breathable sneakers,Sunglasses + Cap
+13.9,53,sunny,fall,Oxford shirt + Light jacket,Chinos,Chukka boots,Minimal bracelet
+13.9,52,cloudy,winter,Oxford shirt + Light jacket,Slim jeans,Sneakers,Watch
+28.9,88,rainy,summer,Quick-dry shirt + Rain shell,Dark chinos,Waterproof sneakers,Water-resistant watch
+31.0,69,cloudy,summer,Breathable T-shirt,Chino shorts,Canvas sneakers,Lightweight watch
+36.0,51,cloudy,summer,Tank top + Open shirt,Athletic shorts,Slip-on canvas shoes,Cooling towel
+-1.3,84,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Waterproof winter boots,Wool scarf + Gloves
+25.2,50,cloudy,summer,Linen shirt,Jeans,Loafers,Cap
+10.4,82,stormy,spring,Hooded rain jacket,Tailored joggers,Rubber-soled boots,Umbrella + Cap
+14.6,98,stormy,spring,Waterproof shell jacket,Chinos,Rain boots,Umbrella
+21.0,99,stormy,fall,Hooded rain jacket,Tailored trousers,Rain boots,Umbrella
+18.1,35,windy,spring,Windbreaker + Tee,Chinos,Sneakers,Light scarf
+39.7,50,cloudy,summer,Tank top + Open shirt,Athletic shorts,Breathable sneakers,Cooling towel
+20.3,95,rainy,fall,Hooded rain jacket,Chinos,Rain boots,Water-resistant watch
+37.3,44,sunny,summer,Moisture-wicking tee,Athletic shorts,Breathable sneakers,Sunglasses
+12.6,80,cloudy,spring,Light sweater,Slim jeans,Chukka boots,Cap
+0.1,66,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Insulated boots,Gloves + Beanie
+33.0,96,stormy,summer,Light rain jacket,Dark chinos,Rubber-soled boots,Water-resistant watch
+6.5,56,cloudy,winter,Puffer jacket,Corduroy pants,Leather boots,Leather gloves
+9.0,61,cloudy,fall,Puffer vest + Sweatshirt,Corduroy pants,Leather boots,Watch
+21.5,72,cloudy,spring,Linen shirt,Jeans,Sneakers,Cap
+3.3,71,snowy,winter,Wool coat + Sweater,Wool trousers,Waterproof winter boots,Gloves + Beanie
+24.9,60,windy,spring,Polo shirt,Chinos,Loafers,None
+16.0,34,windy,fall,Windbreaker + Tee,Tailored joggers,Loafers,Watch
+28.5,46,sunny,summer,Moisture-wicking tee,Linen trousers,Canvas sneakers,Sunglasses
+12.2,59,cloudy,fall,Crewneck sweatshirt,Slim jeans,Sneakers,Minimal bracelet
+-2.1,44,sunny,winter,Turtleneck + Jacket,Wool trousers,Leather boots,Beanie + Ear warmers
+34.0,91,stormy,summer,Quick-dry shirt + Rain shell,Dark chinos,Waterproof sneakers,Umbrella
+8.7,74,rainy,fall,Waterproof shell jacket,Corduroy pants,Rubber-soled boots,Water-resistant watch
+19.8,51,cloudy,spring,Linen shirt,Tailored trousers,Loafers,None
+24.3,57,cloudy,summer,Cotton T-shirt,Jeans,Canvas shoes,Cap
+-0.7,48,sunny,winter,Wool sweater + Overcoat,Corduroy pants,Insulated boots,Beanie + Ear warmers
+18.9,46,cloudy,fall,Cotton T-shirt,Chinos,Sneakers,None
+30.6,32,sunny,summer,Ultra-light T-shirt,Light chinos,Canvas sneakers,Cap
+26.0,42,sunny,spring,Moisture-wicking tee,Linen trousers,Low-top sneakers,Cap
+34.8,77,cloudy,summer,Sleeveless athletic top,Linen shorts,Breathable sneakers,Cap
+14.8,80,cloudy,spring,Oxford shirt + Light jacket,Slim jeans,Chukka boots,Light scarf
+13.6,98,rainy,fall,Hooded rain jacket,Slim jeans,Rain boots,Umbrella
+39.3,28,sunny,summer,Ultra-light T-shirt,Linen shorts,Breathable sneakers,Sunglasses
+35.1,36,windy,summer,Ultra-light T-shirt,Athletic shorts,Sandals,Cap
+16.6,92,rainy,spring,Waterproof shell jacket,Tailored joggers,Rain boots,Water-resistant watch
+11.2,99,rainy,fall,Waterproof shell jacket,Slim jeans,Rubber-soled boots,Water-resistant watch
+21.6,58,sunny,spring,Polo shirt,Jeans,Sneakers,Sunglasses
+11.0,61,windy,fall,Bomber jacket,Chinos,Sneakers,Watch
+0.7,49,windy,winter,Wool sweater + Overcoat,Dark jeans,Waterproof sneakers,Cap
+31.3,34,sunny,summer,Moisture-wicking tee,Chino shorts,Canvas sneakers,Sunglasses + Cap
+23.7,97,rainy,spring,Hooded rain jacket,Tailored trousers,Rubber-soled boots,Umbrella
+17.6,99,stormy,spring,Hooded rain jacket,Slim jeans,Rain boots,Umbrella + Cap
+33.2,55,cloudy,summer,Sleeveless athletic top,Linen shorts,Sandals,Sunglasses + Cap
+-2.8,70,cloudy,winter,Puffer jacket,Corduroy pants,Insulated boots,Thermal socks
+12.1,75,rainy,spring,Waterproof shell jacket,Slim jeans,Waterproof sneakers,Water-resistant watch
+4.6,58,cloudy,winter,Turtleneck + Jacket,Dark jeans,Waterproof sneakers,Light scarf
+23.7,83,rainy,spring,Waterproof shell jacket,Tailored trousers,Rubber-soled boots,Umbrella + Cap
+4.3,62,cloudy,winter,Turtleneck + Jacket,Chinos,High-top sneakers,Watch
+10.3,73,cloudy,winter,Turtleneck + Jacket,Chinos,Loafers,Cap
+-4.8,78,cloudy,winter,Wool sweater + Overcoat,Thermal-lined jeans,Waterproof winter boots,Beanie + Ear warmers
+25.7,57,windy,spring,Short-sleeve button-down,Jeans,Loafers,None
+18.9,90,rainy,fall,Waterproof shell jacket,Tailored trousers,Rubber-soled boots,Umbrella + Cap
+13.6,30,windy,spring,Bomber jacket,Slim jeans,Loafers,Light scarf
+15.5,55,cloudy,spring,Long-sleeve Henley,Chinos,Chukka boots,Minimal bracelet
+-4.7,82,snowy,winter,Insulated puffer jacket,Thermal-lined jeans,Waterproof winter boots,Wool scarf + Gloves
+22.1,52,sunny,spring,Polo shirt,Tailored trousers,Loafers,Watch
+36.4,75,cloudy,summer,Ultra-light T-shirt,Chino shorts,Sandals,Cap
+9.0,98,rainy,fall,Hooded rain jacket,Chinos,Waterproof sneakers,Umbrella + Cap
+13.1,47,windy,fall,Bomber jacket,Slim jeans,Loafers,Light scarf
+14.8,60,windy,spring,Light jacket + Henley,Chinos,Chukka boots,Watch
+14.1,57,cloudy,spring,Long-sleeve Henley,Slim jeans,Loafers,Watch
+16.0,88,rainy,spring,Hooded rain jacket,Chinos,Waterproof sneakers,Umbrella + Cap
+24.2,94,misty,summer,Cotton T-shirt,Tailored trousers,Loafers,Watch
+13.8,57,cloudy,spring,Oxford shirt + Light jacket,Slim jeans,Loafers,Cap
+32.2,42,sunny,summer,Linen short-sleeve shirt,Light chinos,Slip-on loafers,Sunglasses
+33.0,33,sunny,summer,Ultra-light T-shirt,Athletic shorts,Breathable sneakers,Sunglasses + Cap
+16.1,76,cloudy,spring,Crewneck sweatshirt,Tailored joggers,Chukka boots,Cap
+31.8,92,rainy,summer,Light rain jacket,Quick-dry chinos,Rubber-soled boots,Water-resistant watch
+22.2,82,cloudy,fall,Cotton T-shirt,Tailored trousers,Sneakers,Sunglasses
+2.2,95,rainy,winter,Waterproof shell jacket,Dark jeans,Waterproof sneakers,Water-resistant watch
+17.9,90,rainy,fall,Waterproof shell jacket,Tailored joggers,Rubber-soled boots,Water-resistant watch
+16.5,55,cloudy,fall,Oxford shirt + Light jacket,Chinos,Chukka boots,Minimal bracelet
+11.5,74,rainy,spring,Hooded rain jacket,Tailored joggers,Rain boots,Umbrella + Cap
+2.1,66,cloudy,winter,Turtleneck + Jacket,Corduroy pants,Waterproof sneakers,Beanie
+1.6,81,snowy,winter,Insulated puffer jacket,Wool trousers,Waterproof winter boots,Beanie + Thermal socks
+37.7,49,cloudy,summer,Tank top + Open shirt,Athletic shorts,Sandals,Cooling towel
+25.2,57,sunny,summer,Cotton T-shirt,Chinos,Loafers,Sunglasses
+21.4,47,windy,spring,Bomber jacket,Jeans,Sneakers,Light scarf
+35.8,53,sunny,summer,Ultra-light T-shirt,Linen shorts,Slip-on canvas shoes,Sunglasses
+9.2,67,cloudy,fall,Puffer vest + Sweatshirt,Corduroy pants,Leather boots,Watch
+13.7,98,rainy,fall,Waterproof shell jacket,Chinos,Rubber-soled boots,Umbrella + Cap
+11.3,30,sunny,spring,Light sweater,Tailored joggers,Loafers,Cap
+24.1,36,sunny,summer,Linen shirt,Jeans,Sneakers,Sunglasses
+18.9,64,cloudy,spring,Cotton T-shirt,Chinos,Sneakers,Cap
+9.7,55,sunny,winter,Wool sweater + Overcoat,Corduroy pants,High-top sneakers,Leather gloves
+12.7,38,sunny,spring,Light sweater,Slim jeans,Loafers,Cap
+10.7,55,cloudy,fall,Oxford shirt + Light jacket,Slim jeans,Sneakers,Cap
+35.5,82,misty,summer,Ultra-light T-shirt,Chino shorts,Sandals,Cap
+30.3,54,sunny,summer,Moisture-wicking tee,Linen trousers,Slip-on loafers,Sunglasses + Cap
+19.7,71,cloudy,spring,Short-sleeve button-down,Jeans,Sneakers,None
+35.1,42,sunny,summer,Linen short-sleeve shirt,Chino shorts,Breathable sneakers,Sunglasses + Cap
+-2.0,72,windy,winter,Turtleneck + Jacket,Corduroy pants,Leather boots,Light scarf
+14.7,71,cloudy,spring,Crewneck sweatshirt,Tailored joggers,Loafers,Light scarf
+34.5,50,sunny,summer,Linen short-sleeve shirt,Athletic shorts,Breathable sneakers,Cap
+20.7,81,rainy,fall,Waterproof shell jacket,Chinos,Rubber-soled boots,Water-resistant watch
+6.9,69,cloudy,winter,Wool sweater + Overcoat,Corduroy pants,Leather boots,Beanie
+35.9,45,sunny,summer,Moisture-wicking tee,Chino shorts,Breathable sneakers,Sunglasses + Cap
+10.4,49,cloudy,spring,Crewneck sweatshirt,Chinos,Sneakers,Light scarf
+31.3,32,sunny,summer,Moisture-wicking tee,Linen trousers,Slip-on loafers,Sunglasses + Cap
+12.8,94,rainy,fall,Waterproof shell jacket,Chinos,Rubber-soled boots,Umbrella
+15.3,40,sunny,spring,Crewneck sweatshirt,Chinos,Loafers,Light scarf
+16.9,26,sunny,spring,Light sweater,Slim jeans,Chukka boots,Minimal bracelet
+11.4,55,cloudy,fall,Long-sleeve Henley,Tailored joggers,Sneakers,Light scarf
+31.3,34,sunny,summer,Linen short-sleeve shirt,Light chinos,Canvas sneakers,Cap
+13.6,55,sunny,fall,Light sweater,Tailored joggers,Chukka boots,Cap
+0.3,33,sunny,winter,Turtleneck + Jacket,Dark jeans,High-top sneakers,Light scarf
+10.2,82,rainy,fall,Waterproof shell jacket,Slim jeans,Rain boots,Umbrella + Cap
+23.5,89,rainy,spring,Waterproof shell jacket,Chinos,Rain boots,Water-resistant watch
+15.9,91,rainy,fall,Waterproof shell jacket,Slim jeans,Waterproof sneakers,Umbrella + Cap
+4.8,68,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Insulated boots,Wool scarf + Gloves
+36.1,73,cloudy,summer,Linen tee,Linen shorts,Sandals,Cooling towel
+7.1,34,sunny,winter,Wool sweater + Overcoat,Corduroy pants,High-top sneakers,Watch
+9.9,64,windy,fall,Bomber jacket,Chinos,Waterproof sneakers,Watch
+10.2,53,cloudy,fall,Light sweater,Chinos,Chukka boots,Cap
+26.7,81,cloudy,summer,Lightweight polo,Linen trousers,Canvas sneakers,None
+-1.5,64,snowy,winter,Insulated puffer jacket,Thermal-lined jeans,Waterproof winter boots,Gloves + Beanie
+17.2,78,rainy,fall,Waterproof shell jacket,Slim jeans,Rain boots,Water-resistant watch
+38.0,84,rainy,summer,Light rain jacket,Dark chinos,Rubber-soled boots,Water-resistant watch
+36.7,87,stormy,summer,Quick-dry shirt + Rain shell,Dark chinos,Rain boots,Water-resistant watch
+17.8,37,sunny,spring,Long-sleeve Henley,Chinos,Sneakers,Minimal bracelet
+-1.1,62,snowy,winter,Parka + Thermal layer,Wool trousers,Insulated boots,Wool scarf + Gloves
+-1.0,38,sunny,winter,Turtleneck + Jacket,Thermal-lined jeans,Waterproof winter boots,Thermal socks
+11.5,49,cloudy,spring,Light sweater,Slim jeans,Sneakers,Light scarf
+17.1,25,sunny,spring,Oxford shirt + Light jacket,Chinos,Loafers,Light scarf
+14.1,72,cloudy,fall,Long-sleeve Henley,Chinos,Loafers,Cap
+36.4,51,sunny,summer,Moisture-wicking tee,Linen shorts,Slip-on canvas shoes,Sunglasses
+-2.7,37,sunny,winter,Puffer jacket,Corduroy pants,Leather boots,Wool scarf
+9.4,34,windy,fall,Light jacket + Henley,Chinos,Waterproof sneakers,Light scarf
+28.0,92,stormy,summer,Light rain jacket,Dark chinos,Waterproof sneakers,Water-resistant watch
+14.7,32,windy,spring,Windbreaker + Tee,Slim jeans,Loafers,Light scarf
+13.6,82,cloudy,winter,Oxford shirt + Light jacket,Chinos,Loafers,Minimal bracelet
+26.8,62,cloudy,summer,Breathable T-shirt,Chino shorts,Canvas sneakers,Sunglasses
+-5.2,64,snowy,winter,Wool coat + Sweater,Wool trousers,Insulated boots,Beanie + Thermal socks
+15.0,64,cloudy,spring,Light sweater,Chinos,Chukka boots,Cap
+20.2,48,sunny,fall,Cotton T-shirt,Jeans,Canvas shoes,None
+11.4,83,rainy,spring,Hooded rain jacket,Tailored joggers,Rubber-soled boots,Water-resistant watch
+21.3,91,rainy,spring,Waterproof shell jacket,Jeans,Rain boots,Umbrella
+25.9,97,rainy,summer,Hooded rain jacket,Jeans,Rubber-soled boots,Water-resistant watch
+4.2,47,cloudy,winter,Wool sweater + Overcoat,Corduroy pants,Leather boots,Watch
+4.2,63,snowy,winter,Wool coat + Sweater,Wool trousers,Insulated boots,Gloves + Beanie
+12.3,72,cloudy,winter,Crewneck sweatshirt,Chinos,Loafers,Light scarf
+13.1,91,misty,fall,Light trench coat,Chinos,Chukka boots,Watch
+25.7,70,windy,spring,Cotton T-shirt,Jeans,Loafers,Cap
+31.3,38,sunny,summer,Linen short-sleeve shirt,Light chinos,Slip-on loafers,Sunglasses + Cap
+20.4,94,stormy,fall,Waterproof shell jacket,Chinos,Waterproof sneakers,Water-resistant watch
+35.1,70,rainy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Waterproof sneakers,Water-resistant watch
+25.4,81,cloudy,spring,Polo shirt,Tailored trousers,Loafers,Sunglasses
+11.9,52,windy,winter,Turtleneck + Jacket,Slim jeans,Chukka boots,Cap
+16.3,46,sunny,spring,Long-sleeve Henley,Slim jeans,Chukka boots,Light scarf
+23.6,79,cloudy,spring,Short-sleeve button-down,Tailored trousers,Canvas shoes,Cap
+27.7,80,cloudy,summer,Linen short-sleeve shirt,Light chinos,Low-top sneakers,Cap
+3.3,76,snowy,winter,Wool coat + Sweater,Wool trousers,Insulated boots,Gloves + Beanie
+14.9,60,windy,spring,Windbreaker + Tee,Chinos,Loafers,Watch
+16.3,79,stormy,spring,Hooded rain jacket,Slim jeans,Rain boots,Water-resistant watch
+11.6,94,rainy,spring,Waterproof shell jacket,Chinos,Waterproof sneakers,Umbrella + Cap
+39.0,73,rainy,summer,Light rain jacket,Dark chinos,Waterproof sneakers,Umbrella
+39.1,27,sunny,summer,Linen short-sleeve shirt,Linen shorts,Breathable sneakers,Sunglasses
+11.4,52,cloudy,fall,Oxford shirt + Light jacket,Slim jeans,Sneakers,Watch
+18.0,56,sunny,spring,Short-sleeve button-down,Chinos,Sneakers,Cap
+11.2,78,cloudy,fall,Light sweater,Tailored joggers,Chukka boots,Watch
+13.7,53,windy,fall,Light jacket + Henley,Slim jeans,Chukka boots,Light scarf
+19.6,71,rainy,spring,Waterproof shell jacket,Chinos,Waterproof sneakers,Umbrella
+14.3,54,sunny,spring,Long-sleeve Henley,Chinos,Chukka boots,Minimal bracelet
+39.9,37,windy,summer,Ultra-light T-shirt,Linen shorts,Breathable sneakers,None
+1.0,45,sunny,winter,Turtleneck + Jacket,Chinos,Leather boots,Leather gloves
+24.6,27,sunny,summer,Polo shirt,Chinos,Canvas shoes,Sunglasses
+27.2,35,windy,summer,Linen short-sleeve shirt,Linen trousers,Low-top sneakers,Sunglasses
+24.7,52,sunny,spring,Linen shirt,Chinos,Loafers,Cap
+0.5,81,cloudy,winter,Wool sweater + Overcoat,Chinos,High-top sneakers,Watch
+33.4,31,sunny,summer,Ultra-light T-shirt,Linen shorts,Slip-on canvas shoes,Sunglasses
+13.0,46,windy,winter,Bomber jacket,Chinos,Chukka boots,Cap
+-3.2,61,windy,winter,Turtleneck + Jacket,Wool trousers,Waterproof winter boots,Cap
+28.2,54,cloudy,summer,Breathable T-shirt,Linen trousers,Slip-on loafers,Sunglasses
+2.8,76,snowy,winter,Wool coat + Sweater,Wool trousers,Insulated boots,Wool scarf + Gloves
+11.2,95,rainy,spring,Waterproof shell jacket,Chinos,Waterproof sneakers,Umbrella + Cap
+12.6,70,misty,spring,Hoodie + Light jacket,Slim jeans,Chukka boots,Minimal bracelet
+7.1,67,cloudy,winter,Puffer jacket,Dark jeans,Leather boots,Beanie
+16.5,90,stormy,spring,Waterproof shell jacket,Tailored joggers,Waterproof sneakers,Umbrella
+21.4,30,sunny,fall,Linen shirt,Chinos,Loafers,Sunglasses
+34.0,89,stormy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Rain boots,Umbrella
+31.5,98,stormy,summer,Light rain jacket,Dark chinos,Rain boots,Umbrella + Cap
+14.2,62,cloudy,spring,Light sweater,Slim jeans,Chukka boots,Watch
+20.7,34,windy,spring,Bomber jacket,Tailored trousers,Loafers,Cap
+14.7,52,windy,fall,Light jacket + Henley,Tailored joggers,Sneakers,Cap
+19.4,82,misty,fall,Light trench coat,Chinos,Loafers,Watch
+12.0,48,windy,spring,Bomber jacket,Chinos,Chukka boots,Light scarf
+38.6,33,windy,summer,Linen tee,Linen shorts,Breathable sneakers,None
+38.7,45,cloudy,summer,Linen tee,Athletic shorts,Breathable sneakers,Cap
+19.3,59,sunny,spring,Cotton T-shirt,Chinos,Canvas shoes,Sunglasses
+38.1,67,windy,summer,Sleeveless athletic top,Chino shorts,Slip-on canvas shoes,Cooling towel
+12.4,50,cloudy,fall,Crewneck sweatshirt,Chinos,Loafers,Cap
+17.6,78,rainy,spring,Hooded rain jacket,Chinos,Rain boots,Umbrella + Cap
+-1.4,76,misty,winter,Turtleneck + Jacket,Wool trousers,Waterproof winter boots,Beanie + Ear warmers
+-1.8,90,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Insulated boots,Wool scarf + Gloves
+21.6,78,cloudy,fall,Cotton T-shirt,Chinos,Sneakers,Watch
+3.1,93,snowy,winter,Parka + Thermal layer,Wool trousers,Insulated boots,Beanie + Thermal socks
+3.8,77,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Waterproof winter boots,Beanie + Thermal socks
+1.7,68,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Waterproof winter boots,Beanie + Thermal socks
+21.8,99,rainy,fall,Waterproof shell jacket,Jeans,Waterproof sneakers,Umbrella + Cap
+35.3,78,rainy,summer,Light rain jacket,Dark chinos,Rain boots,Water-resistant watch
+8.1,60,sunny,fall,Flannel shirt + Coat,Chinos,Waterproof sneakers,Watch
+31.7,80,rainy,summer,Quick-dry shirt + Rain shell,Dark chinos,Waterproof sneakers,Umbrella
+22.9,90,misty,spring,Short-sleeve button-down,Tailored trousers,Loafers,Watch
+13.9,34,sunny,winter,Crewneck sweatshirt,Slim jeans,Loafers,Watch
+21.4,70,cloudy,spring,Short-sleeve button-down,Tailored trousers,Loafers,Cap
+24.0,38,windy,spring,Cotton T-shirt,Jeans,Sneakers,Cap
+24.4,86,misty,spring,Polo shirt,Jeans,Sneakers,Cap
+13.3,41,windy,fall,Windbreaker + Tee,Slim jeans,Sneakers,Watch
+-2.1,49,cloudy,winter,Wool sweater + Overcoat,Corduroy pants,Waterproof winter boots,Beanie + Ear warmers
+13.2,82,rainy,spring,Waterproof shell jacket,Chinos,Rain boots,Umbrella + Cap
+10.9,62,cloudy,spring,Light sweater,Chinos,Chukka boots,Light scarf
+20.5,35,windy,fall,Light jacket + Henley,Tailored trousers,Loafers,Light scarf
+16.5,72,cloudy,fall,Long-sleeve Henley,Slim jeans,Chukka boots,Light scarf
+6.5,34,sunny,winter,Puffer jacket,Corduroy pants,Leather boots,Beanie
+37.2,35,sunny,summer,Moisture-wicking tee,Chino shorts,Slip-on canvas shoes,Sunglasses + Cap
+24.4,58,cloudy,spring,Polo shirt,Chinos,Loafers,Sunglasses
+25.8,76,rainy,spring,Waterproof shell jacket,Tailored trousers,Rain boots,Water-resistant watch
+6.8,74,cloudy,winter,Turtleneck + Jacket,Chinos,Leather boots,Beanie
+-3.7,77,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Insulated boots,Beanie + Thermal socks
+1.3,71,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Insulated boots,Wool scarf + Gloves
+22.4,54,sunny,spring,Polo shirt,Jeans,Canvas shoes,None
+32.8,57,sunny,summer,Moisture-wicking tee,Linen trousers,Low-top sneakers,Sunglasses
+10.7,58,windy,winter,Wool sweater + Overcoat,Chinos,Chukka boots,Watch
+31.3,99,rainy,summer,Light rain jacket,Quick-dry chinos,Rain boots,Umbrella + Cap
+25.9,76,cloudy,summer,Cotton T-shirt,Chinos,Sneakers,Watch
+31.0,47,sunny,summer,Linen short-sleeve shirt,Linen trousers,Slip-on loafers,Sunglasses
+12.3,79,misty,fall,Light trench coat,Slim jeans,Chukka boots,Light scarf
+10.9,58,sunny,spring,Light sweater,Chinos,Loafers,Minimal bracelet
+14.1,58,cloudy,fall,Long-sleeve Henley,Tailored joggers,Chukka boots,Light scarf
+9.8,80,misty,fall,Light trench coat,Dark jeans,High-top sneakers,Watch
+20.7,85,stormy,spring,Hooded rain jacket,Jeans,Rain boots,Water-resistant watch
+21.2,78,cloudy,fall,Cotton T-shirt,Chinos,Canvas shoes,Watch
+21.9,33,windy,fall,Light jacket + Henley,Jeans,Sneakers,Cap
+16.1,54,sunny,spring,Long-sleeve Henley,Slim jeans,Loafers,Minimal bracelet
+2.9,35,windy,winter,Puffer jacket,Chinos,Waterproof sneakers,Light scarf
+-6.0,48,cloudy,winter,Turtleneck + Jacket,Corduroy pants,Leather boots,Wool scarf
+13.8,70,misty,fall,Hoodie + Light jacket,Slim jeans,Loafers,Minimal bracelet
+25.8,93,rainy,summer,Hooded rain jacket,Chinos,Rubber-soled boots,Water-resistant watch
+24.7,75,rainy,summer,Waterproof shell jacket,Tailored trousers,Rain boots,Water-resistant watch
+24.9,82,rainy,spring,Waterproof shell jacket,Chinos,Rain boots,Umbrella
+3.0,90,rainy,winter,Hooded rain jacket,Corduroy pants,Rubber-soled boots,Umbrella + Cap
+12.8,54,sunny,spring,Long-sleeve Henley,Slim jeans,Chukka boots,Cap
+17.7,91,rainy,fall,Hooded rain jacket,Slim jeans,Rain boots,Umbrella
+21.2,73,cloudy,spring,Linen shirt,Tailored trousers,Canvas shoes,Cap
+20.0,79,rainy,spring,Hooded rain jacket,Tailored trousers,Rubber-soled boots,Umbrella
+33.3,80,cloudy,summer,Linen tee,Linen shorts,Slip-on canvas shoes,None
+16.4,31,windy,fall,Windbreaker + Tee,Chinos,Chukka boots,Light scarf
+20.9,81,stormy,spring,Waterproof shell jacket,Tailored trousers,Rain boots,Umbrella + Cap
+7.5,45,sunny,winter,Wool sweater + Overcoat,Chinos,Waterproof sneakers,Leather gloves
+24.8,81,rainy,summer,Waterproof shell jacket,Tailored trousers,Rubber-soled boots,Umbrella + Cap
+22.5,55,sunny,spring,Polo shirt,Tailored trousers,Canvas shoes,Cap
+25.4,42,windy,spring,Polo shirt,Tailored trousers,Sneakers,Watch
+11.9,32,windy,spring,Windbreaker + Tee,Tailored joggers,Loafers,Watch
+31.5,58,sunny,summer,Moisture-wicking tee,Chino shorts,Slip-on loafers,Cap
+33.2,58,cloudy,summer,Sleeveless athletic top,Linen shorts,Sandals,Cap
+-2.8,86,rainy,winter,Waterproof shell jacket,Thermal-lined jeans,Rubber-soled boots,Umbrella + Cap
+27.5,51,sunny,summer,Moisture-wicking tee,Light chinos,Canvas sneakers,Sunglasses
+38.5,68,cloudy,summer,Ultra-light T-shirt,Athletic shorts,Slip-on canvas shoes,None
+23.1,79,misty,fall,Linen shirt,Chinos,Canvas shoes,Cap
+12.7,90,rainy,fall,Waterproof shell jacket,Tailored joggers,Rubber-soled boots,Water-resistant watch
+-1.8,47,sunny,winter,Wool sweater + Overcoat,Corduroy pants,Waterproof winter boots,Gloves + Beanie
+23.0,51,sunny,fall,Polo shirt,Chinos,Loafers,Cap
+-4.9,89,snowy,winter,Wool coat + Sweater,Wool trousers,Waterproof winter boots,Beanie + Thermal socks
+8.3,90,rainy,fall,Waterproof shell jacket,Chinos,Rubber-soled boots,Umbrella
+25.7,63,windy,summer,Linen shirt,Tailored trousers,Sneakers,Cap
+21.2,71,rainy,fall,Hooded rain jacket,Tailored trousers,Rubber-soled boots,Umbrella + Cap
+24.2,81,cloudy,spring,Linen shirt,Chinos,Canvas shoes,Watch
+-1.7,81,snowy,winter,Insulated puffer jacket,Wool trousers,Insulated boots,Gloves + Beanie
+23.4,76,rainy,spring,Hooded rain jacket,Tailored trousers,Rubber-soled boots,Water-resistant watch
+-4.7,65,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Insulated boots,Wool scarf + Gloves
+0.4,49,windy,winter,Puffer jacket,Chinos,Waterproof sneakers,Watch
+26.7,77,misty,summer,Linen short-sleeve shirt,Light chinos,Canvas sneakers,Lightweight watch
+26.1,94,stormy,summer,Quick-dry shirt + Rain shell,Dark chinos,Rubber-soled boots,Umbrella
+11.3,35,sunny,spring,Light sweater,Tailored joggers,Sneakers,Cap
+11.8,55,sunny,winter,Turtleneck + Jacket,Tailored joggers,Chukka boots,Minimal bracelet
+18.8,83,misty,spring,Sweater + Windbreaker,Tailored trousers,Sneakers,Cap
+19.4,92,misty,spring,Sweater + Windbreaker,Jeans,Canvas shoes,Sunglasses
+34.6,76,cloudy,summer,Ultra-light T-shirt,Linen shorts,Sandals,Cooling towel
+25.2,90,rainy,spring,Hooded rain jacket,Tailored trousers,Waterproof sneakers,Umbrella
+12.2,54,cloudy,fall,Light sweater,Tailored joggers,Loafers,Minimal bracelet
+22.1,69,misty,fall,Linen shirt,Chinos,Canvas shoes,Cap
+33.1,59,cloudy,summer,Linen tee,Chino shorts,Slip-on canvas shoes,Sunglasses + Cap
+38.5,43,sunny,summer,Ultra-light T-shirt,Chino shorts,Breathable sneakers,Cap
+13.7,64,cloudy,spring,Oxford shirt + Light jacket,Chinos,Sneakers,Light scarf
+21.5,49,cloudy,spring,Polo shirt,Jeans,Loafers,Sunglasses
+15.7,46,sunny,fall,Crewneck sweatshirt,Chinos,Sneakers,Watch
+12.6,47,sunny,spring,Long-sleeve Henley,Tailored joggers,Sneakers,Watch
+12.9,80,cloudy,spring,Long-sleeve Henley,Tailored joggers,Chukka boots,Cap
+-0.8,78,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Waterproof winter boots,Gloves + Beanie
+33.5,33,windy,summer,Linen tee,Chino shorts,Sandals,Sunglasses + Cap
+-0.5,76,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Insulated boots,Gloves + Beanie
+22.4,44,sunny,fall,Cotton T-shirt,Tailored trousers,Canvas shoes,None
+8.7,86,rainy,fall,Waterproof shell jacket,Corduroy pants,Rain boots,Umbrella
+27.7,77,cloudy,summer,Lightweight polo,Light chinos,Canvas sneakers,Lightweight watch
+35.3,53,sunny,summer,Ultra-light T-shirt,Linen shorts,Sandals,Cap
+25.7,40,sunny,summer,Linen shirt,Jeans,Canvas shoes,Cap
+39.9,60,cloudy,summer,Ultra-light T-shirt,Chino shorts,Slip-on canvas shoes,Cooling towel
+18.9,54,cloudy,spring,Linen shirt,Tailored trousers,Loafers,None
+20.5,61,windy,spring,Windbreaker + Tee,Tailored trousers,Sneakers,Watch
+20.8,56,windy,fall,Windbreaker + Tee,Chinos,Loafers,Cap
+15.0,70,misty,fall,Hoodie + Light jacket,Slim jeans,Sneakers,Watch
+14.4,86,misty,fall,Light trench coat,Tailored joggers,Chukka boots,Watch
+11.2,90,rainy,fall,Waterproof shell jacket,Chinos,Rubber-soled boots,Umbrella
+24.0,31,sunny,summer,Linen shirt,Jeans,Loafers,Sunglasses + Cap
+21.8,27,sunny,spring,Cotton T-shirt,Tailored trousers,Loafers,Cap
+28.4,85,misty,summer,Linen short-sleeve shirt,Linen trousers,Slip-on loafers,Sunglasses
+32.1,45,sunny,summer,Moisture-wicking tee,Linen trousers,Low-top sneakers,Cap
+39.5,87,rainy,summer,Light rain jacket,Dark chinos,Waterproof sneakers,Umbrella + Cap
+9.8,53,cloudy,winter,Turtleneck + Jacket,Corduroy pants,High-top sneakers,Watch
+-0.7,35,sunny,winter,Wool sweater + Overcoat,Corduroy pants,Leather boots,Thermal socks
+15.7,78,cloudy,spring,Oxford shirt + Light jacket,Chinos,Chukka boots,Light scarf
+11.8,40,windy,fall,Windbreaker + Tee,Chinos,Sneakers,Watch
+25.7,57,sunny,summer,Short-sleeve button-down,Tailored trousers,Sneakers,Sunglasses + Cap
+31.9,100,rainy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Rubber-soled boots,Umbrella
+2.5,80,cloudy,winter,Turtleneck + Jacket,Chinos,High-top sneakers,Leather gloves
+11.9,64,cloudy,spring,Oxford shirt + Light jacket,Tailored joggers,Sneakers,Watch
+11.6,58,cloudy,spring,Oxford shirt + Light jacket,Chinos,Chukka boots,Cap
+25.3,58,cloudy,spring,Polo shirt,Jeans,Loafers,Watch
+14.0,55,sunny,fall,Oxford shirt + Light jacket,Slim jeans,Sneakers,Light scarf
+21.5,64,windy,spring,Bomber jacket,Jeans,Sneakers,Cap
+10.8,51,windy,fall,Bomber jacket,Slim jeans,Loafers,Watch
+7.8,47,cloudy,winter,Puffer jacket,Corduroy pants,Waterproof sneakers,Beanie
+29.8,45,sunny,summer,Lightweight polo,Linen trousers,Low-top sneakers,Sunglasses
+39.4,38,windy,summer,Ultra-light T-shirt,Chino shorts,Breathable sneakers,None
+15.2,33,windy,fall,Windbreaker + Tee,Slim jeans,Chukka boots,Watch
+33.8,60,cloudy,summer,Tank top + Open shirt,Athletic shorts,Sandals,None
+20.4,71,cloudy,spring,Short-sleeve button-down,Jeans,Loafers,Cap
+10.9,71,rainy,fall,Waterproof shell jacket,Tailored joggers,Waterproof sneakers,Umbrella + Cap
+-0.8,64,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Insulated boots,Beanie + Thermal socks
+12.0,79,rainy,fall,Waterproof shell jacket,Chinos,Waterproof sneakers,Water-resistant watch
+29.2,50,windy,summer,Lightweight polo,Light chinos,Slip-on loafers,Cap
+17.3,51,sunny,spring,Crewneck sweatshirt,Tailored joggers,Chukka boots,Cap
+27.6,48,cloudy,summer,Lightweight polo,Linen trousers,Slip-on loafers,None
+10.0,75,cloudy,spring,Light sweater,Slim jeans,Loafers,Minimal bracelet
+3.8,51,sunny,winter,Turtleneck + Jacket,Dark jeans,High-top sneakers,Watch
+18.8,38,windy,spring,Bomber jacket,Jeans,Sneakers,Watch
+11.5,33,windy,fall,Light jacket + Henley,Tailored joggers,Chukka boots,Watch
+37.7,31,sunny,summer,Linen short-sleeve shirt,Athletic shorts,Slip-on canvas shoes,Cap
+31.9,80,rainy,summer,Light rain jacket,Quick-dry chinos,Rain boots,Umbrella + Cap
+21.6,33,sunny,spring,Polo shirt,Chinos,Loafers,Watch
+36.6,63,cloudy,summer,Sleeveless athletic top,Chino shorts,Slip-on canvas shoes,Sunglasses + Cap
+36.0,30,sunny,summer,Ultra-light T-shirt,Chino shorts,Sandals,Sunglasses
+37.3,81,stormy,summer,Light rain jacket,Quick-dry chinos,Rain boots,Water-resistant watch
+13.6,62,cloudy,winter,Oxford shirt + Light jacket,Slim jeans,Sneakers,Watch
+-3.8,92,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Insulated boots,Wool scarf + Gloves
+-1.1,81,cloudy,winter,Puffer jacket,Corduroy pants,Leather boots,Wool scarf
+4.0,85,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Insulated boots,Gloves + Beanie
+23.7,74,cloudy,fall,Linen shirt,Jeans,Canvas shoes,Watch
+1.2,30,sunny,winter,Turtleneck + Jacket,Corduroy pants,Waterproof sneakers,Leather gloves
+31.8,66,cloudy,summer,Lightweight polo,Linen trousers,Canvas sneakers,Lightweight watch
+33.6,66,windy,summer,Ultra-light T-shirt,Athletic shorts,Slip-on canvas shoes,Cap
+12.2,59,cloudy,fall,Long-sleeve Henley,Tailored joggers,Chukka boots,Minimal bracelet
+19.9,78,misty,spring,Hoodie + Light jacket,Jeans,Canvas shoes,Sunglasses
+18.9,73,cloudy,fall,Polo shirt,Tailored trousers,Loafers,Cap
+9.8,43,sunny,fall,Sweater + Jacket,Dark jeans,Leather boots,Light scarf
+3.7,65,snowy,winter,Insulated puffer jacket,Wool trousers,Insulated boots,Beanie + Thermal socks
+1.2,94,snowy,winter,Wool coat + Sweater,Wool trousers,Waterproof winter boots,Beanie + Thermal socks
+-0.7,71,rainy,winter,Waterproof shell jacket,Wool trousers,Waterproof sneakers,Water-resistant watch
+13.0,43,sunny,spring,Light sweater,Tailored joggers,Chukka boots,Light scarf
+20.3,54,windy,fall,Windbreaker + Tee,Tailored trousers,Canvas shoes,Cap
+18.1,48,sunny,spring,Short-sleeve button-down,Jeans,Loafers,Cap
+34.1,54,sunny,summer,Moisture-wicking tee,Linen shorts,Sandals,Sunglasses + Cap
+31.2,59,sunny,summer,Ultra-light T-shirt,Light chinos,Low-top sneakers,Cap
+14.8,85,stormy,spring,Hooded rain jacket,Chinos,Rubber-soled boots,Water-resistant watch
+17.4,75,rainy,spring,Waterproof shell jacket,Slim jeans,Rain boots,Umbrella + Cap
+5.4,33,sunny,winter,Wool sweater + Overcoat,Chinos,High-top sneakers,Leather gloves
+19.0,54,windy,fall,Windbreaker + Tee,Tailored trousers,Canvas shoes,Watch
+8.9,74,cloudy,fall,Flannel shirt + Coat,Corduroy pants,High-top sneakers,Beanie
+23.6,69,windy,spring,Light jacket + Henley,Chinos,Loafers,Watch
+21.2,51,cloudy,spring,Short-sleeve button-down,Jeans,Canvas shoes,Sunglasses
+22.6,50,cloudy,spring,Linen shirt,Chinos,Loafers,Sunglasses
+14.4,61,cloudy,fall,Light sweater,Chinos,Loafers,Light scarf
+17.1,87,rainy,fall,Hooded rain jacket,Chinos,Rain boots,Water-resistant watch
+2.3,74,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Waterproof winter boots,Beanie + Thermal socks
+15.0,57,sunny,fall,Light sweater,Chinos,Chukka boots,Cap
+23.6,35,windy,spring,Light jacket + Henley,Chinos,Canvas shoes,Cap
+25.8,84,rainy,summer,Waterproof shell jacket,Jeans,Rubber-soled boots,Water-resistant watch
+34.0,82,cloudy,summer,Tank top + Open shirt,Chino shorts,Slip-on canvas shoes,Sunglasses + Cap
+28.5,53,sunny,summer,Lightweight polo,Chino shorts,Slip-on loafers,Sunglasses
+18.6,57,sunny,fall,Linen shirt,Chinos,Sneakers,Cap
+14.1,81,cloudy,fall,Long-sleeve Henley,Slim jeans,Loafers,Watch
+25.5,87,rainy,spring,Hooded rain jacket,Chinos,Rain boots,Umbrella + Cap
+20.9,81,rainy,spring,Waterproof shell jacket,Chinos,Rubber-soled boots,Umbrella + Cap
+21.0,69,misty,fall,Linen shirt,Chinos,Sneakers,Cap
+9.4,38,sunny,fall,Hoodie + Bomber jacket,Corduroy pants,Leather boots,Light scarf
+22.6,85,stormy,fall,Waterproof shell jacket,Chinos,Waterproof sneakers,Umbrella + Cap
+24.5,73,cloudy,spring,Polo shirt,Jeans,Sneakers,Sunglasses
+24.1,72,cloudy,spring,Linen shirt,Jeans,Loafers,Cap
+21.1,57,windy,fall,Windbreaker + Tee,Chinos,Sneakers,Cap
+6.2,78,rainy,winter,Waterproof shell jacket,Chinos,Rain boots,Umbrella
+21.5,62,cloudy,fall,Linen shirt,Chinos,Loafers,None
+11.1,46,cloudy,fall,Long-sleeve Henley,Slim jeans,Loafers,Light scarf
+11.1,69,windy,spring,Light jacket + Henley,Tailored joggers,Loafers,Cap
+8.7,92,rainy,fall,Waterproof shell jacket,Chinos,Rubber-soled boots,Umbrella
+22.0,96,rainy,fall,Waterproof shell jacket,Tailored trousers,Rubber-soled boots,Umbrella + Cap
+2.8,92,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Insulated boots,Wool scarf + Gloves
+16.0,52,cloudy,fall,Light sweater,Slim jeans,Loafers,Cap
+15.3,78,cloudy,fall,Light sweater,Slim jeans,Sneakers,Cap
+38.5,94,rainy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Rubber-soled boots,Water-resistant watch
+23.6,46,sunny,fall,Polo shirt,Jeans,Canvas shoes,None
+12.2,87,rainy,winter,Waterproof shell jacket,Chinos,Rain boots,Umbrella + Cap
+39.4,79,rainy,summer,Light rain jacket,Dark chinos,Waterproof sneakers,Umbrella + Cap
+16.7,30,windy,fall,Light jacket + Henley,Chinos,Sneakers,Light scarf
+17.6,54,cloudy,fall,Oxford shirt + Light jacket,Tailored joggers,Chukka boots,Light scarf
+-4.9,74,snowy,winter,Wool coat + Sweater,Thermal-lined jeans,Insulated boots,Gloves + Beanie
+10.6,84,stormy,fall,Waterproof shell jacket,Slim jeans,Waterproof sneakers,Umbrella + Cap
+30.1,27,sunny,summer,Ultra-light T-shirt,Light chinos,Low-top sneakers,Sunglasses + Cap
+-0.5,43,sunny,winter,Wool sweater + Overcoat,Corduroy pants,Insulated boots,Gloves + Beanie
+7.8,80,cloudy,winter,Puffer jacket,Corduroy pants,Waterproof sneakers,Watch
+33.8,51,windy,summer,Linen tee,Chino shorts,Sandals,Cap
+24.0,69,misty,summer,Cotton T-shirt,Tailored trousers,Sneakers,None
+13.6,75,cloudy,fall,Light sweater,Chinos,Chukka boots,Light scarf
+25.1,36,sunny,summer,Linen shirt,Chinos,Sneakers,Sunglasses + Cap
+17.9,26,sunny,fall,Light sweater,Chinos,Loafers,Cap
+20.8,86,misty,fall,Short-sleeve button-down,Chinos,Canvas shoes,None
+37.0,79,cloudy,summer,Tank top + Open shirt,Linen shorts,Breathable sneakers,None
+2.8,92,snowy,winter,Insulated puffer jacket,Wool trousers,Waterproof winter boots,Beanie + Thermal socks
+16.2,46,sunny,spring,Oxford shirt + Light jacket,Tailored joggers,Loafers,Watch
+32.0,33,sunny,summer,Ultra-light T-shirt,Linen trousers,Low-top sneakers,Sunglasses
+36.4,98,stormy,summer,Light rain jacket,Quick-dry chinos,Rain boots,Umbrella + Cap
+26.3,96,rainy,summer,Quick-dry shirt + Rain shell,Dark chinos,Rubber-soled boots,Water-resistant watch
+1.6,82,snowy,winter,Insulated puffer jacket,Wool trousers,Insulated boots,Beanie + Thermal socks
+27.4,76,rainy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Rain boots,Umbrella
+10.2,68,cloudy,spring,Long-sleeve Henley,Chinos,Chukka boots,Cap
+39.1,53,sunny,summer,Linen short-sleeve shirt,Athletic shorts,Sandals,Cap
+8.5,78,cloudy,fall,Sweater + Jacket,Dark jeans,High-top sneakers,Beanie
+-2.4,67,cloudy,winter,Puffer jacket,Corduroy pants,Waterproof winter boots,Thermal socks
+20.7,44,sunny,spring,Short-sleeve button-down,Tailored trousers,Sneakers,Sunglasses
+13.0,69,cloudy,fall,Crewneck sweatshirt,Slim jeans,Sneakers,Light scarf
+19.9,94,misty,spring,Sweater + Windbreaker,Chinos,Canvas shoes,Cap
+9.0,73,rainy,fall,Hooded rain jacket,Corduroy pants,Rubber-soled boots,Water-resistant watch
+16.5,50,sunny,spring,Long-sleeve Henley,Slim jeans,Chukka boots,Watch
+30.4,60,cloudy,summer,Linen short-sleeve shirt,Light chinos,Low-top sneakers,Lightweight watch
+11.3,71,cloudy,fall,Crewneck sweatshirt,Slim jeans,Chukka boots,Cap
+20.7,92,rainy,spring,Hooded rain jacket,Chinos,Rubber-soled boots,Umbrella
+23.3,48,cloudy,fall,Cotton T-shirt,Tailored trousers,Canvas shoes,None
+34.6,48,cloudy,summer,Ultra-light T-shirt,Linen shorts,Slip-on canvas shoes,Sunglasses + Cap
+17.2,35,sunny,spring,Crewneck sweatshirt,Chinos,Sneakers,Cap
+38.6,56,cloudy,summer,Linen tee,Linen shorts,Breathable sneakers,Sunglasses + Cap
+4.2,55,sunny,winter,Wool sweater + Overcoat,Dark jeans,High-top sneakers,Beanie
+28.5,26,sunny,summer,Moisture-wicking tee,Light chinos,Canvas sneakers,Cap
+30.5,83,rainy,summer,Light rain jacket,Quick-dry chinos,Rubber-soled boots,Umbrella + Cap
+26.5,100,stormy,summer,Light rain jacket,Quick-dry chinos,Rubber-soled boots,Umbrella + Cap
+10.2,81,stormy,fall,Waterproof shell jacket,Slim jeans,Rain boots,Water-resistant watch
+15.2,37,sunny,fall,Light sweater,Slim jeans,Chukka boots,Watch
+11.8,51,windy,fall,Windbreaker + Tee,Tailored joggers,Chukka boots,Cap
+9.8,42,sunny,fall,Sweater + Jacket,Dark jeans,Waterproof sneakers,Watch
+16.4,88,rainy,fall,Hooded rain jacket,Slim jeans,Rubber-soled boots,Umbrella
+24.2,62,cloudy,summer,Short-sleeve button-down,Tailored trousers,Canvas shoes,Cap
+23.6,79,rainy,fall,Hooded rain jacket,Chinos,Waterproof sneakers,Water-resistant watch
+17.2,48,sunny,fall,Oxford shirt + Light jacket,Tailored joggers,Chukka boots,Watch
+26.0,48,cloudy,summer,Lightweight polo,Linen trousers,Low-top sneakers,None
+24.2,80,stormy,summer,Hooded rain jacket,Tailored trousers,Rain boots,Umbrella
+27.8,82,stormy,summer,Light rain jacket,Dark chinos,Rain boots,Umbrella + Cap
+21.6,31,sunny,spring,Linen shirt,Chinos,Canvas shoes,Cap
+3.3,78,snowy,winter,Wool coat + Sweater,Wool trousers,Waterproof winter boots,Wool scarf + Gloves
+17.0,35,sunny,spring,Crewneck sweatshirt,Slim jeans,Chukka boots,Cap
+4.6,74,snowy,winter,Wool coat + Sweater,Wool trousers,Waterproof winter boots,Gloves + Beanie
+30.3,93,rainy,summer,Quick-dry shirt + Rain shell,Quick-dry chinos,Rain boots,Water-resistant watch
+10.6,25,sunny,winter,Puffer jacket,Tailored joggers,Sneakers,Minimal bracelet
+14.0,31,windy,spring,Bomber jacket,Chinos,Chukka boots,Watch
+-3.6,55,sunny,winter,Wool sweater + Overcoat,Wool trousers,Leather boots,Wool scarf
+17.5,80,cloudy,spring,Crewneck sweatshirt,Slim jeans,Loafers,Cap
+25.2,52,sunny,summer,Short-sleeve button-down,Jeans,Loafers,Sunglasses + Cap
+25.1,59,sunny,summer,Polo shirt,Tailored trousers,Loafers,Cap
+16.7,61,cloudy,fall,Long-sleeve Henley,Slim jeans,Chukka boots,Cap
+-4.6,87,snowy,winter,Parka + Thermal layer,Thermal-lined jeans,Insulated boots,Beanie + Thermal socks
+19.2,78,cloudy,fall,Cotton T-shirt,Tailored trousers,Canvas shoes,None
+21.5,93,rainy,fall,Hooded rain jacket,Tailored trousers,Rubber-soled boots,Umbrella + Cap
+12.7,58,cloudy,winter,Oxford shirt + Light jacket,Slim jeans,Sneakers,Watch
+39.4,48,cloudy,summer,Linen tee,Chino shorts,Slip-on canvas shoes,Cap
+25.5,48,sunny,spring,Linen shirt,Tailored trousers,Loafers,Cap
+38.2,61,cloudy,summer,Ultra-light T-shirt,Athletic shorts,Sandals,Cap
+5.9,42,sunny,winter,Puffer jacket,Chinos,Waterproof sneakers,Watch
+8.3,77,misty,fall,Light trench coat,Chinos,Leather boots,Leather gloves

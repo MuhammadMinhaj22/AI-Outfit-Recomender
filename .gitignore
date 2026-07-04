@@ -1,0 +1,10 @@
+# Large ML files - will be downloaded from HuggingFace
+*.pkl
+*.joblib
+*.db
+*.sqlite
+
+# Python cache
+__pycache__/
+*.pyc
+.env
