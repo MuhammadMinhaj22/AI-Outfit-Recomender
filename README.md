@@ -1,6 +1,6 @@
 # Weather-Based Men's Outfit Recommender
 
-This application recommends outfits based on current weather conditions.
+"This is a smart outfit recommendation application that helps users dress appropriately based on location. Simply enter the name of any city from around the world, and the app will suggest the perfect outfit tailored to that city's current weather and climate conditions."
 
 Make `.env` file and type `OPENWEATHER_API_KEY=YOUR_API_KEY_HERE`
 
